@@ -17,4 +17,7 @@ The dataset column is in Indonesian, and I'm not changing column name. So here's
 - `Tunjangan PPh` = Tax Allowance
 - `Jumlah Penghasilan Bruto` = Gross Income
 
-Points to be analysis and EDA result will be provided in Rmd file
+Points to be analysis and EDA result will be provided in Rmd file.
+Some important notes:
+1. The original dataset has been manipulated to hide confidential data
+2. In actual the rule or Tax is more complicated. Some has been simplified here just for the practice sake.
