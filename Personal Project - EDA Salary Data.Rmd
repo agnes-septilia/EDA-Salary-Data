@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Here I’m practicing EDA with the data set of Data Gaji (Salary Data).
-Lets start with loading the library and take a look on the dataset.
+Let's start with loading the library and take a look on the dataset.
 
 ```{r}
 library(tidyverse)
